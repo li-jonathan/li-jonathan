@@ -1,11 +1,5 @@
 <h1>Hi!👋</h1>
-<h3>My name is Jonathan and I'm currently a senior at James Madison University.</h3>
-
-<ul>
-  <li>🎓Bachelor of Science in Computer Science.</li>
-  <li>🔍I'm currently learning: web development.
-  <li>💬Ask me about my internships, research, projects, or video games!</l1>   
-</ul>
+<h3>My name is Jonatham.</h3>
 
 <p>
 Connect with me!
