@@ -1,5 +1,5 @@
 <h1>Hi!👋</h1>
-<h3>My name is Jonatham.</h3>
+<h3>My name is Jonathan.</h3>
 
 <p>
 Connect with me!
